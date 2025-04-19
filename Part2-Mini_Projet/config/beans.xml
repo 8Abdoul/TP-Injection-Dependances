@@ -1,0 +1,11 @@
+<beans>
+    <bean id="etudiantDao" class="app.dao.EtudiantDaoImpl"/>
+    <bean id="etudiantMetier" class="app.metier.EtudiantMetierImpl">
+        <property name="etudiantDao" ref="etudiantDao"/>
+    </bean>
+
+    <bean id="formateurDao" class="app.dao.FormateurDaoImpl"/>
+    <bean id="planningService" class="app.service.PlanningServiceImpl">
+        <property name="formateurDao" ref="formateurDao"/>
+    </bean>
+</beans>
