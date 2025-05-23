@@ -49,8 +49,8 @@ Par champ
 
 
 ---
-#Dans la partie 2 nous avons :
-#<img width="458" alt="image" src="https://github.com/user-attachments/assets/74b26012-06e8-4854-a39b-d0be069bf52d" />
+# Dans la partie 2 nous avons :
+# <img width="458" alt="image" src="https://github.com/user-attachments/assets/74b26012-06e8-4854-a39b-d0be069bf52d" />
 
-#<img width="421" alt="image" src="https://github.com/user-attachments/assets/b8105f9f-5eaf-4035-b6fd-f9a349d84422" />
+# <img width="421" alt="image" src="https://github.com/user-attachments/assets/b8105f9f-5eaf-4035-b6fd-f9a349d84422" />
 
